@@ -1,0 +1,30 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+
+# Env
+.env
+.env.backup
+
+# Caches
+.phpunit.result.cache
+
+# Local configs
+docker-compose.override.yml
+.lando.local.yml
+Homestead.json
+Homestead.yaml
+
+# logs
+npm-debug.log
+yarn-error.log
+
+# IDE folders
+.idea
+.code
+
+# Misc. crap
+.DS_Store
+.rnd
